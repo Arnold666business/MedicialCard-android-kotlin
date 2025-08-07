@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Medicial Card</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="sing_in">Войти</string>
+    <string name="login_field">логин</string>
+    <string name="password_field">пароль</string>
+</resources>
